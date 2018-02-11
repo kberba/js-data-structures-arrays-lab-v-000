@@ -28,9 +28,9 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-
+  const byeLastDriver = drives.slice(-1);
 }
 
 function removeFirstDriver() {
-  
+
 }
