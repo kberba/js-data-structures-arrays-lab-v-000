@@ -26,3 +26,11 @@ function prependDriver(name) {
   const moreDrivers = [name, ...drivers];
   return moreDrivers;
 }
+
+function removeLastDriver() {
+
+}
+
+function removeFirstDriver() {
+  
+}
